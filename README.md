@@ -37,3 +37,6 @@ const App = () => {
 }
 
 ```
+# Customize styling
+
+https://fontawesome.com/v6/docs/web/use-with/react/style
