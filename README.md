@@ -23,7 +23,7 @@ yarn add @fortawesome/react-fontawesome@latest
 # How to use
 
 Use the second value and remove the dashes
-<FontAwesomeIcon icon="fa-solid fa-360-degrees" />
+`<FontAwesomeIcon icon="fa-solid fa-360-degrees" />`
 
 
 ```
@@ -35,8 +35,5 @@ const App = () => {
     <FontAwesomeIcon icon={faBox} />
   )
 }
-
-
-
 
 ```
