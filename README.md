@@ -37,6 +37,7 @@ const App = () => {
 }
 
 ```
+In case we want to make a font-awesome icon library
 
 ![image](https://user-images.githubusercontent.com/93780913/154657385-86c04ff7-52dd-4939-9bdc-9b0e86b32e0a.png)
 
