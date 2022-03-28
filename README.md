@@ -22,7 +22,7 @@ yarn add @fortawesome/react-fontawesome@latest
 
 # How to use
 
-Use the second value and remove the dashes
+Use the second value and remove the hyphen
 `<FontAwesomeIcon icon="fa-solid fa-360-degrees" />`
 
 
